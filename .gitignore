@@ -1,0 +1,12 @@
+venv/
+.idea/
+.vscode/
+migrations/
+*.pyc
+*.iml
+*.gz
+*.pem
+.DS_Store
+.python-version
+log/
+deploy.tar
