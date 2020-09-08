@@ -1,3 +1,11 @@
+"""
+    b tree
+    ~~~~~~~
+    static b_tree
+    add by
+        feikong
+        0906
+"""
 
 
 class StaticBTree(object):
