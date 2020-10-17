@@ -51,7 +51,7 @@ def middle_traverse(root):
     middle_traverse(root.left_node)
     value = root.value
     print(value)
-    pre_traverse(root.right_node)
+    middle_traverse(root.right_node)
 
 
 def post_traverse(root):
